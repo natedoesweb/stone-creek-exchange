@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+
+const people = await getCollection('people');
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title="Neighbors" description="Browse the people and projects helping shape Stone Creek Exchange." />
+  </head>
+  <body>
+    <Header />
+    <main class="page">
+      <section class="card">
+        <p class="eyebrow">Browse by person</p>
+        <h1>Neighbors and projects</h1>
+        <div class="list">
+          {people.map((person) => {
+            const slug = person.id.replace(/\.md$/, '');
+            return (
+              <a href={`/people/${slug}`}>
+                <strong>{person.data.title}</strong>
+                <div>{person.data.category} • {person.data.location}</div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>

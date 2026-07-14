@@ -6,7 +6,10 @@ import Header from '../../components/Header.astro';
 
 export async function getStaticPaths() {
   const events = await getCollection('events');
-  return events.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+  return events.map((entry) => {
+    const slug = entry.id.replace(/\.md$/, '');
+    return { params: { slug }, props: { entry } };
+  });
 }
 
 const { entry } = Astro.props;
