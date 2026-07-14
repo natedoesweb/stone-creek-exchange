@@ -1,0 +1,38 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+
+export async function getStaticPaths() {
+  const people = await getCollection('people');
+  return people.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={entry.data.title} description={entry.data.about} />
+  </head>
+  <body>
+    <Header />
+    <main class="page">
+      <article class="card">
+        <p class="eyebrow">{entry.data.category}</p>
+        <h1>{entry.data.title}</h1>
+        <p class="meta">{entry.data.location}</p>
+        <div class="content">
+          <Content />
+        </div>
+        <div class="details">
+          <h2>How to connect</h2>
+          <p>{entry.data.contact}</p>
+        </div>
+      </article>
+    </main>
+    <Footer />
+  </body>
+</html>
