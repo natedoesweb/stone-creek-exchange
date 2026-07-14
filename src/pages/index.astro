@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, URL_PREFIX } from '../consts';
 
 const people = (await getCollection('people')).slice(0, 3);
 const events = (await getCollection('events')).slice(0, 3);
@@ -22,8 +22,8 @@ const events = (await getCollection('events')).slice(0, 3);
 				<h1>Stone Creek Exchange brings neighbors together around plants, projects, and skills.</h1>
 				<p>What begins with Lapis Place Nursery expands into a welcoming place to discover nearby gardeners, makers, teachers, and community events.</p>
 				<div>
-					<a class="button" href="/people/lapis-place-nursery">Visit Lapis Place Nursery</a>
-					<a class="button secondary" href="/events">See upcoming events</a>
+					<a class="button" href={`${URL_PREFIX}/people/lapis-place-nursery`}>Visit Lapis Place Nursery</a>
+					<a class="button secondary" href={`${URL_PREFIX}/events`}>See upcoming events</a>
 				</div>
 			</section>
 
@@ -33,7 +33,7 @@ const events = (await getCollection('events')).slice(0, 3);
 					<div class="list">
 						{people.map((person) => {
 							const slug = person.id.replace(/\.md$/, '');
-							return <a href={`/people/${slug}`}>{person.data.title}</a>;
+							return <a href={`{URL_PREFIX}/people/${slug}`}>{person.data.title}</a>;
 						})}
 					</div>
 				</div>
@@ -42,7 +42,7 @@ const events = (await getCollection('events')).slice(0, 3);
 					<div class="list">
 						{events.map((event) => {
 							const slug = event.id.replace(/\.md$/, '');
-							return <a href={`/events/${slug}`}>{event.data.title}</a>;
+							return <a href={`{URL_PREFIX}/events/${slug}`}>{event.data.title}</a>;
 						})}
 					</div>
 				</div>
