@@ -22,7 +22,7 @@ const people = await getCollection('people');
           {people.map((person) => {
             const slug = person.id.replace(/\.md$/, '');
             return (
-              <a href={`{URL_PREFIX}/people/${slug}`}>
+              <a href={`${URL_PREFIX}/people/${slug}`}>
                 <strong>{person.data.title}</strong>
                 <div>{person.data.category} • {person.data.location}</div>
               </a>
