@@ -1,17 +1,17 @@
 ---
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE, URL_PREFIX } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2><a href="{URL_PREFIX}">{SITE_TITLE}</a></h2>
 		<div class="internal-links">
-			<HeaderLink href="/stone-creek-exchange/">Home</HeaderLink>
-			<HeaderLink href="/stone-creek-exchange/people">People</HeaderLink>
-			<HeaderLink href="/stone-creek-exchange/events">Events</HeaderLink>
-			<HeaderLink href="/stone-creek-exchange/categories">Browse</HeaderLink>
-			<HeaderLink href="/stone-creek-exchange/about">About</HeaderLink>
+			<HeaderLink href="{URL_PREFIX}/">Home</HeaderLink>
+			<HeaderLink href="{URL_PREFIX}/people">People</HeaderLink>
+			<HeaderLink href="{URL_PREFIX}/events">Events</HeaderLink>
+			<HeaderLink href="{URL_PREFIX}/categories">Browse</HeaderLink>
+			<HeaderLink href="{URL_PREFIX}/about">About</HeaderLink>
 		</div>
 	</nav>
 </header>
