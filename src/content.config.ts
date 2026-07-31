@@ -18,13 +18,35 @@ const people = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		slug: z.string(),
-		category: z.string(),
-		location: z.string(),
-		skills: z.string(),
-		about: z.string(),
+		type: z.enum(["person", "business", "organization", "club"]),
+		description: z.string(),
+
+		industries: z.array(z.string()).default([]),
+		tags: z.array(z.string()).default([]),
+
+		location: z.string().optional(),
+		website: z.string().url().optional(),
+
 		photos: z.array(z.string()).optional(),
-		contact: z.string(),
-	}),
+
+		contact: z
+			.object({
+				email: z.string().email().optional(),
+				phone: z.string().optional(),
+			})
+			.optional(),
+
+		social: z
+			.object({
+				facebook: z.string().url().optional(),
+				instagram: z.string().url().optional(),
+				linkedin: z.string().url().optional(),
+				github: z.string().url().optional(),
+				youtube: z.string().url().optional(),
+				x: z.string().url().optional(),
+			})
+			.optional(),
+	})
 });
 
 const events = defineCollection({
