@@ -71,10 +71,3 @@ Lapis Place Nursery operates on a community-supported pricing model. Each plant 
 If you'd like to support the nursery even when you're not purchasing plants, contributions are always appreciated through PayPal: https://www.paypal.com/paypalme/natedoesweb
 
 Every contribution helps purchase seeds, soil, trays, labels, and other supplies so we can continue growing plants for our neighbors.
-
-## Coming Soon
-
-- Online plant availability
-- Printable care guides
-- Gardening tips for Central Oregon
-- Community gardening resources through Stone Creek Exchange
