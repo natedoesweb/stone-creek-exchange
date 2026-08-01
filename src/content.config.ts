@@ -30,11 +30,11 @@ const people = defineCollection({
 		photos: z.array(z.string()).optional(),
 
 		contact: z
-			.object({
-				email: z.string().email().optional(),
-				phone: z.string().optional(),
-			})
-			.optional(),
+		.object({
+			email: z.string().email().optional(),
+			phone: z.string().optional(),
+		})
+		.optional(),
 
 		social: z
 			.object({
