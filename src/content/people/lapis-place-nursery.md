@@ -72,6 +72,8 @@ Lapis Place Nursery operates on a community-supported pricing model. Each plant 
 - Strawflowers: $4–5
 - Lavender: $6–8
 
-If you'd like to support the nursery even when you're not purchasing plants, contributions are always appreciated through PayPal: https://www.paypal.com/paypalme/natedoesweb
+Plants can be purchased by scanning the PayPal QR code at the nursery stand or by using the link below:
 
-Every contribution helps purchase seeds, soil, trays, labels, and other supplies so we can continue growing plants for our neighbors.
+https://www.paypal.com/paypalme/natedoesweb
+
+If you’d simply like to support the nursery, you’re welcome to use the same link. Every contribution—whether it’s for a plant or an extra donation—helps us purchase seeds, soil, pots, trays, labels, and other supplies so we can continue growing plants for our neighbors.
