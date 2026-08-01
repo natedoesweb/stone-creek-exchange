@@ -3,19 +3,24 @@ title: Nate Does Web
 slug: nate-does-web
 
 type: business
+
+description: Professional web development, WordPress, SEO, and Shopify services for small businesses and nonprofits.
+
 industries:
   - Web Development
-  - Digital Services
-website: https://www.natedoesweb.com
-
-social:
-  facebook: https://facebook.com/natedoesweb
-  instagram: https://instagram.com/natedoesweb
-  github: https://github.com/natedoesweb
+  - Technology
 
 tags:
   - WordPress
   - SEO
   - Shopify
   - Accessibility
+
+website: https://www.natedoesweb.com
+
+contact: {}
+
+social:
+  github: https://github.com/...
+  linkedin: https://linkedin.com/in/...
 ---
