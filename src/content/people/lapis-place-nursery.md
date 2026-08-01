@@ -4,7 +4,7 @@ slug: lapis-place-nursery
 
 type: business
 
-description: A neighborhood seedling project that shares hardy starts and practical growing knowledge with nearby residents.
+description: A community-supported neighborhood nursery growing healthy, locally adapted vegetable, herb, and flower starts in Bend, Oregon.
 
 industries:
   - Gardening
@@ -29,11 +29,25 @@ contact: {}
 #   facebook: https://facebook.com/...
 ---
 
-Lapis Place Nursery offers a rotating selection of seedlings and small starts that are well suited to local growing conditions. The goal is to share plants, stories, and practical tips with neighbors who want to grow something beautiful and useful.
+Lapis Place Nursery is a community-supported neighborhood nursery located on Lapis Place in Bend, Oregon. We grow healthy, locally adapted vegetable, herb, and flower starts for our neighbors and the local community.
 
-## What you can expect
+Every plant includes a QR code that links to its own page with growing tips, care instructions, and seasonal updates. Our goal is to make gardening more approachable while building connections between neighbors through locally grown plants.
 
-- Seasonal seedlings and starts
-- Suggested contribution amounts
-- Simple care notes for each plant
-- Community support for future growing projects
+## What We Grow
+
+- Vegetable starts
+- Culinary herbs
+- Pollinator-friendly flowers
+- Seasonal specialty plants
+
+## Community-Supported Pricing
+
+Each plant has a suggested contribution rather than a fixed price. If you're able to contribute a little more, it helps us grow additional plants for neighbors. If money is tight, we still want everyone to have the opportunity to grow fresh food and beautiful flowers.
+
+## Coming Soon
+
+- Online plant availability
+- Printable care guides
+- Plant-specific QR code pages
+- Gardening tips for Central Oregon
+- Community gardening resources through Stone Creek Exchange
