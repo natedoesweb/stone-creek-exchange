@@ -40,12 +40,16 @@ Every plant includes a QR code that links back to this page, where you'll find t
 
 The following plants are currently available. Inventory is updated regularly but may change as plants are sold.
 
-| Plant | Suggested Contribution | Available |
-| ------ | ---------------------: | --------: |
-| Basil | $4 | 8 |
-| Oregano | $4 | Coming Soon |
-| Jalapeño Peppers | $5 | Coming Soon |
-| Beefsteak Tomatoes | $5–6 | Coming Soon |
+| Plant | Available |
+| ------ | --------: |
+| Basil | 8 |
+| Oregano | Coming Soon |
+| Jalapeño Peppers | Coming Soon |
+| Beefsteak Tomatoes | Coming Soon |
+| Lettuce | Coming Soon |
+| Walla Walla Onion | Coming Soon |
+| Lavender | Coming Soon |
+| Strawflower | Coming Soon |
 
 ## What We Grow
 
