@@ -41,8 +41,8 @@ The following plants are currently available. Inventory is updated regularly but
 | ------ | --------: |
 | [Sweet Basil](#sweet-basil) | 7 |
 | Oregano | Coming Soon |
-| Jalapeño Peppers | Coming Soon |
-| Beefsteak Tomatoes | Coming Soon |
+| [Early Jalapeño Peppers](#jalapeno-peppers) | Coming Soon |
+| [Beefsteak Tomatoes](#beefsteak-tomatoes) | Coming Soon |
 | Lettuce | Coming Soon |
 | Walla Walla Onion | Coming Soon |
 | Lavender | Coming Soon |
@@ -116,3 +116,73 @@ Harvest frequently by pinching stems just above a pair of leaves. Remove flower 
 ### Growing in Central Oregon
 
 Sweet basil thrives in warm summer weather but is very sensitive to frost. Wait until nighttime temperatures consistently stay above **50°F** before planting outdoors. Because Bend has a shorter growing season, consider growing basil in containers that can be moved indoors if an early frost is expected.
+
+<h2 id="beefsteak-tomatoes">Beefsteak Tomatoes</h2>
+
+**Suggested Contribution:** $5–6
+
+### Planting
+
+- Transplant outdoors after all danger of frost has passed.
+- Plant in full sun with at least **8 hours** of direct sunlight.
+- Bury the stem deeply, leaving only the top few sets of leaves above the soil.
+- Space plants **24–36 inches apart** and provide a sturdy cage or stake.
+
+### Water
+
+Water deeply 1–2 times per week, keeping the soil evenly moist. Avoid wetting the leaves to reduce the risk of disease.
+
+### Harvest
+
+Harvest when fruits are fully colored and slightly soft to the touch. Regular picking encourages continued production.
+
+### Companion Plants
+
+- Sweet Basil
+- Marigolds
+- Onions
+
+### Common Problems
+
+- Blossom end rot
+- Early blight
+- Hornworms
+- Cracking from inconsistent watering
+
+### Growing in Central Oregon
+
+Beefsteak tomatoes benefit from the warmest, sunniest location available. Because Bend has a shorter growing season, transplant after the last frost and consider using mulch or row covers early in the season to help retain warmth.
+
+<h2 id="jalapeno-peppers">Early Jalapeño Peppers</h2>
+
+**Suggested Contribution:** $5
+
+### Planting
+
+- Transplant after all danger of frost has passed.
+- Plant in full sun with **6–8+ hours** of sunlight.
+- Space plants **18–24 inches apart**.
+
+### Water
+
+Keep soil consistently moist but not waterlogged. Allow the top inch of soil to dry slightly between waterings.
+
+### Harvest
+
+Harvest peppers when they are firm and glossy green, or allow them to ripen to red for a sweeter, slightly hotter flavor.
+
+### Companion Plants
+
+- Basil
+- Tomatoes
+- Onions
+
+### Common Problems
+
+- Aphids
+- Flea beetles
+- Blossom drop during cool weather
+
+### Growing in Central Oregon
+
+Jalapeños love heat and may benefit from black mulch or a sunny south-facing location. Early varieties are well suited to Bend's shorter growing season and often produce earlier than standard jalapeños.
