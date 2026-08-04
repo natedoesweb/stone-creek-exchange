@@ -39,7 +39,7 @@ The following plants are currently available. Inventory is updated regularly but
 
 | Plant | Available |
 | ------ | --------: |
-| [Sweet Basil](#sweet-basil) | 8 |
+| [Sweet Basil](#sweet-basil) | 7 |
 | Oregano | Coming Soon |
 | Jalapeño Peppers | Coming Soon |
 | Beefsteak Tomatoes | Coming Soon |
@@ -81,11 +81,9 @@ Current offerings include:
 - Pollinator-friendly flowers
 - Seasonal specialty plants
 
----
-
 # Plant Care Guides
 
-## 🌿 Sweet Basil
+<h2 id="sweet-basil">Sweet Basil</h2>
 
 **Suggested Contribution:** $4
 
