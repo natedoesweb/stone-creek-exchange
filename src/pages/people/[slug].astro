@@ -32,8 +32,8 @@ const { Content } = await render(entry);
         </div>
         <div class="details">
           <h2>How to connect</h2>
-          <p><a href={`mailto:${entry.data.contact?.email ?? 'No email available'}`}>Email</a></p>
-          <p><a href={`tel:${entry.data.contact?.phone ?? 'No phone available'}`}>Phone</a></p>
+          <p><a href={`mailto:${entry.data.contact?.email ?? ''}`}>Email</a></p>
+          <p><a href={`tel:${entry.data.contact?.phone ?? ''}`}>Phone</a></p>
         </div>
       </article>
     </main>
