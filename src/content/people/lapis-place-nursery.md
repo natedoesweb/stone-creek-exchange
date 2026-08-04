@@ -39,7 +39,7 @@ The following plants are currently available. Inventory is updated regularly but
 
 | Plant | Available |
 | ------ | --------: |
-| [Sweet Basil](#sweet-basil) | 7 |
+| [Sweet Basil](#sweet-basil) | 4 |
 | Oregano | Coming Soon |
 | [Early Jalapeño Peppers](#jalapeno-peppers) | Coming Soon |
 | [Beefsteak Tomatoes](#beefsteak-tomatoes) | Coming Soon |
