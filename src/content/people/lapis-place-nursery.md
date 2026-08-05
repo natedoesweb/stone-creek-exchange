@@ -64,7 +64,7 @@ Lapis Place Nursery operates on a community-supported pricing model. Each plant 
 
 Plants can be purchased by scanning the PayPal QR code at the nursery stand or by using the link below:
 
-**[Pay with PayPal](https://www.paypal.com/paypalme/natedoesweb)**
+**Pay with [PayPal](https://www.paypal.com/paypalme/natedoesweb) or [Venmo](https://venmo.com/code?user_id=1844395221450752137)** 
 
 If you'd simply like to support the nursery, you're welcome to use the same link. Every contribution—whether it's for a plant or an additional donation—helps us purchase seeds, soil, trays, pots, labels, and other supplies so we can continue growing healthy plants for our neighbors.
 
