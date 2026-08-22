@@ -119,7 +119,7 @@ Sweet basil thrives in warm summer weather but is very sensitive to frost. Wait 
 
 <h2 id="little-caesar-lettuce">🥬 Little Caesar Lettuce</h2>
 
-**Suggested Contribution:** $4
+**Suggested Contribution:** $3
 
 ### Planting
 
