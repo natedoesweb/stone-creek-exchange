@@ -39,11 +39,11 @@ The following plants are currently available. Inventory is updated regularly but
 
 | Plant | Available |
 | ------ | --------: |
-| [Sweet Basil](#sweet-basil) | 4 |
+| [Sweet Basil](#sweet-basil) | 3 |
 | Oregano | Coming Soon |
 | [Early Jalapeño Peppers](#jalapeno-peppers) | Coming Soon |
 | [Beefsteak Tomatoes](#beefsteak-tomatoes) | Coming Soon |
-| Lettuce | Coming Soon |
+| [Little Caesar Lettuce](#little-caesar-lettuce) | 3 |
 | Walla Walla Onion | Coming Soon |
 | Lavender | Coming Soon |
 | Strawflower | Coming Soon |
@@ -116,6 +116,40 @@ Harvest frequently by pinching stems just above a pair of leaves. Remove flower 
 ### Growing in Central Oregon
 
 Sweet basil thrives in warm summer weather but is very sensitive to frost. Wait until nighttime temperatures consistently stay above **50°F** before planting outdoors. Because Bend has a shorter growing season, consider growing basil in containers that can be moved indoors if an early frost is expected.
+
+<h2 id="little-caesar-lettuce">🥬 Little Caesar Lettuce</h2>
+
+**Suggested Contribution:** $4
+
+### Planting
+
+- Plant in full sun to partial shade.
+- Space plants **6–8 inches apart** for individual heads.
+- Lettuce prefers cool weather and can be planted in spring or fall.
+- Transplant carefully to avoid disturbing the roots.
+
+### Water
+
+Keep the soil consistently moist, especially during warm weather. Lettuce has shallow roots and can become stressed quickly if the soil dries out.
+
+### Harvest
+
+Harvest individual outer leaves as needed once the plant is established, or allow the head to mature and harvest the entire plant.
+
+For the longest harvest, pick the outer leaves first and leave the center growing.
+
+### Common Problems
+
+- Aphids
+- Slugs
+- Bolting in hot weather
+- Leaf damage from inconsistent watering
+
+### Growing in Central Oregon
+
+Little Caesar lettuce is well suited to the cooler parts of the growing season in Central Oregon. Plant in early spring or late summer for the best results. During hot weather, provide afternoon shade to help prevent bolting and bitter leaves.
+
+For a continuous harvest, consider planting new lettuce every few weeks rather than planting everything at once.
 
 <h2 id="beefsteak-tomatoes">Beefsteak Tomatoes</h2>
 
